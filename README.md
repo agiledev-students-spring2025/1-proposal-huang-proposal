@@ -1,8 +1,6 @@
 # Project Proposal
 
-## Project Title
-
-PetPals
+## Project Title: PetPals
 
 ### What and Why？
 
