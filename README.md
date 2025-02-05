@@ -29,11 +29,7 @@ This app is for all pet owners, veterinarians, and anyone looking to improve pet
 - **Pet-Friendly Locations**: Discover parks, restaurants, and services catering to pets.
 - **Expert-Led Content**: Access videos and articles from veterinarians and trainers.
 
-Users can seamlessly switch between health tracking and social engagement modes in one app based on their needs. The health tracking system enables pet owners to set reminders for vaccinations, access to their pets' medical history, and receive their own AI-powered wellness recommendations tailored to their pet’s specific needs.
-
-Meanwhile, the social networking platform fosters an interactive pet care community where users can seek advice, join interest-based groups, and participate in live Q&A sessions with veterinarians and pet experts. Additionally, an integrated pet-friendly locator helps users discover nearby pet-friendly parks, cafes, and services.
-
-To enhance collaboration, pet owners can share their pet’s health records with veterinarians and caregivers, ensuring better-coordinated care and expert guidance.
+Users can seamlessly switch between health tracking and social engagement modes in one app based on their needs. The health tracking system enables pet owners to set reminders for vaccinations, access to their pets' medical history, and receive their own AI-powered wellness recommendations tailored to their pet’s specific needs. Meanwhile, the social networking platform fosters an interactive pet care community where users can seek advice, join interest-based groups, and participate in live Q&A sessions with veterinarians and pet experts. Additionally, an integrated pet-friendly locator helps users discover nearby pet-friendly parks, cafes, and services. Additionally, to enhance collaboration, pet owners can share their pet’s health records with veterinarians and caregivers, ensuring better-coordinated care and expert guidance.
 
 ### Scope
 
